@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Uncle-K-1
 - 👀 I’m interested in ... Programming as well as Music
 - 🌱 I’m currently learning ... C#, Asp.NET, MVC, C++ and Java
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me ...Email Me
 
 <!---
